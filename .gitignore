@@ -1,0 +1,16 @@
+# .gitignore
+# See https://git-scm.com/docs/gitignore for usage
+*
+*.*
+!.gitignore
+!.matrix
+!*.R
+!*.py
+!*.md
+!*.Rmd
+!*.html
+!*.js
+!*.css
+!*.jl
+!*.txt
+!*.ipynb
